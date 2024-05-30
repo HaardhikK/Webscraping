@@ -1,6 +1,7 @@
 # Webscraping
 
 ## Frameworks used: Selenium , NLP , Python.
+Scraped 155 websites in single go.
 Displaying the URL of each website.
 Skipping URLs that are not currently active (approximately 5 links are inactive).
 Displaying the heading of each webpage.
