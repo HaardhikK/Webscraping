@@ -1,6 +1,6 @@
 # Webscraping
 
-## Frameworks used: Selenium , nltp , python.
+## Frameworks used: Selenium , NLP , Python.
 Displaying the URL of each website.
 Skipping URLs that are not currently active (approximately 5 links are inactive).
 Displaying the heading of each webpage.
