@@ -1,6 +1,8 @@
-# Webscraping
+# Webscraping applications with Captcha
+## Frameworks used: Selenium, Pytesseract OCR , NLP , Python.
+Project 1:Specifically designed to bypass the CAPTCHA challenge, using Selenium the script navigates to the target webpage, captures the CAPTCHA image, and employs the pytesseract module for Optical Character Recognition (OCR) to extract the text from the image. After multiple attempts to solve the CAPTCHA, it attempts to extract relevant data from the page regardless of the CAPTCHA success, ensuring that valuable information is obtained even if the CAPTCHA is not bypassed. The overall approach showcases the integration of web scraping techniques with OCR to automate data retrieval from web applications that implement CAPTCHA security measures.
 
-## Frameworks used: Selenium , NLP , Python.
+Project 2:
 Scraped 155 websites in single go.
 Displaying the URL of each website.
 Skipping URLs that are not currently active (approximately 5 links are inactive).
